@@ -1,0 +1,78 @@
+#title{
+    color:white;
+    font-family: 'Urbanist', sans-serif;
+    width: 60%;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 10px;
+
+}
+#titleLink{
+    text-decoration:none;
+    font-size: 18px;
+}
+
+.link{
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+    
+}
+
+.link:hover{
+    font-size: 34px;
+    text-decoration: underline;
+    
+}
+.container2{
+    background-image: url(https://www.wallpaperflare.com/static/669/213/243/mountains-snowy-peak-snow-covered-wallpaper.jpg);
+    height: 850px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+#content{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 4%;
+    margin-top: 6%;
+}
+h1{
+    font-size: 45px;
+    color: white;
+}
+h3{
+    margin: 0 0 0 0;
+    width: 50%;
+    color: white;
+}
+
+.gallery{
+    height: 40%;
+    background: rgb(26, 48, 72,0.9);
+   
+    
+    
+} 
+.imgc{
+    display: flex;
+    justify-content: center;
+    margin-top: 12%;
+}
+.images{
+    width: 300px;
+    height: 220px; 
+     opacity: 1; 
+ }   
+
+ .container3{
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701384425.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 850px;
+}
